@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("gitee test!!!");
         System.out.println("gitee update!!!");
         System.out.println("github更新了!!!");
+        System.out.println("github。。。");
     }
 }
